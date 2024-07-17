@@ -52,7 +52,7 @@
  ### Gestion des utilisateurs
  #### Inscription et connexion
 -	Développement de la page d'inscription
-   1. Concevoir l'interface utilisateur
+    - Concevoir l'interface utilisateur
    2. Implémenter la logique de validation des données
    3.	Intégrer la création de compte (backend)
 -	Développement de la page de connexion
