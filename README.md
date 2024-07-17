@@ -2,14 +2,14 @@
 
 ## Modules à Développer :
 
-•  Gestion des utilisateurs
-•  Gestion des activités sportives
-•  Gestion des événements
-•  Gestion de support
-•  Gestion des annonces
-•  Gestion des recommandations
-•  Gestion des actualités
-•  API externe
+- Gestion des utilisateurs
+-  Gestion des activités sportives
+-  Gestion des événements
+-  Gestion de support
+-  Gestion des annonces
+-  Gestion des recommandations
+-  Gestion des actualités
+-  API externe
 
 ## Liste de fonctionnalité par module
 
