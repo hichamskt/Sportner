@@ -65,126 +65,126 @@
   3.	Tester l'intégration avec différents scénarios utilisateur
 #### Gestion des profils utilisateurs
 -	Création de la page de profil utilisateur
-  1	Concevoir l'interface utilisateur
-  o	Afficher les informations de base de l'utilisateur
+  1.	Concevoir l'interface utilisateur
+  2.	Afficher les informations de base de l'utilisateur
 -	Modification des informations de profil
-  o	Implémenter la logique de modification de profil
-  o	Intégrer la validation des nouvelles données
-  o	Mettre à jour les informations dans la base de données
+  1.	Implémenter la logique de modification de profil
+  2.	Intégrer la validation des nouvelles données
+  3.	Mettre à jour les informations dans la base de données
 -	Gestion des préférences utilisateurs
-  o	Ajouter une section préférences dans le profil
-  o	Permettre la modification des préférences (ex: types de sports, notifications)
-  o	Sauvegarder les préférences dans la base de données
+  1.	Ajouter une section préférences dans le profil
+  2.	Permettre la modification des préférences (ex: types de sports, notifications)
+  3.	Sauvegarder les préférences dans la base de données
 #### Suivi et interaction entre utilisateurs
-•	Fonctionnalité de suivi d'autres utilisateurs
-  o	Implémenter la logique de suivi
-  o	Créer une interface pour afficher les utilisateurs suivis
-•	Notifications pour interactions
-  o	Mettre en place le système de notifications (push, email)
-  o	Configurer les types de notifications (nouveau message, nouveau suiveur)
-  o	Tester les notifications sur différents appareils
+-	Fonctionnalité de suivi d'autres utilisateurs
+  1.	Implémenter la logique de suivi
+  2.	Créer une interface pour afficher les utilisateurs suivis
+-	Notifications pour interactions
+  1.	Mettre en place le système de notifications (push, email)
+  2.	Configurer les types de notifications (nouveau message, nouveau suiveur)
+  3.	Tester les notifications sur différents appareils
 ### Gestion des activités sportives
 #### Choix et gestion des activités
-•	Interface de choix d'activités
-o	Concevoir l'interface utilisateur pour faire le choix d’activité 
-o	Sauvegarder les activités dans la base de données
+-	Interface de choix d'activités
+1.	Concevoir l'interface utilisateur pour faire le choix d’activité 
+2.	Sauvegarder les activités dans la base de données
 ### Gestion des événements
  #### Organisation et gestion des événements
-•	Interface d'organisation d'événements
-  o	Concevoir l'interface utilisateur pour la création d'événements
-  o	Implémenter la validation des données d'événement
-  o	Sauvegarder les événements dans la base de données
-•	Gestion des événements existants
-  o	Créer une interface pour modifier/supprimer les événements
-  o	Implémenter la logique de modification et suppression (backend)
-  o	Gérer les permissions (qui peut modifier/supprimer)
-Inscription et participation des utilisateurs
-•	Système d'inscription aux événements
-  o	Développer l'interface pour l'inscription
-  o	Intégrer le backend pour enregistrer les inscriptions
-  o	Envoyer des confirmations d'inscription
-•	Notifications de confirmation d'inscription
-  o	Configurer les notifications par email/push
-  o	Tester l'envoi de notifications
-Communication et mise à jour des événements
-•	Système de communication
-  o	Développer une interface pour les mises à jour des événements
-  o	Intégrer la fonctionnalité d’annonces
-•	Notifications de changement de programme
-  o	Configurer les notifications pour les changements
-  o	Tester les notifications sur différents appareils
+-	Interface d'organisation d'événements
+  1.	Concevoir l'interface utilisateur pour la création d'événements
+  2.	Implémenter la validation des données d'événement
+  3.	Sauvegarder les événements dans la base de données
+-	Gestion des événements existants
+  1.	Créer une interface pour modifier/supprimer les événements
+  2.	Implémenter la logique de modification et suppression (backend)
+  3.	Gérer les permissions (qui peut modifier/supprimer)
+#### Inscription et participation des utilisateurs
+-	Système d'inscription aux événements
+  1.	Développer l'interface pour l'inscription
+  2.	Intégrer le backend pour enregistrer les inscriptions
+  3.	Envoyer des confirmations d'inscription
+-	Notifications de confirmation d'inscription
+  1.	Configurer les notifications par email/push
+  2.	Tester l'envoi de notifications
+#### Communication et mise à jour des événements
+-	Système de communication
+  1.	Développer une interface pour les mises à jour des événements
+  2.	Intégrer la fonctionnalité d’annonces
+-	Notifications de changement de programme
+  1.	Configurer les notifications pour les changements
+  2.	Tester les notifications sur différents appareils
 ### Gestion de support
-  Système de support utilisateur
-  Assistance en ligne et FAQ
-•	Développement de la section FAQ
-  o	Concevoir l'interface utilisateur pour la FAQ
-  o	Rédiger et structurer les questions/réponses
-  o	Mettre en place la recherche dans la FAQ
-•	Chat en ligne pour assistance
-  o	Intégrer un widget de chat en ligne (ex: Intercom, Zendesk)
-  o	Configurer le backend pour gérer les sessions de chat
-  o	Former le personnel de support à utiliser l'outil de chat
+ #### Système de support utilisateur
+ #### Assistance en ligne et FAQ
+-	Développement de la section FAQ
+  1.	Concevoir l'interface utilisateur pour la FAQ
+  2.	Rédiger et structurer les questions/réponses
+  3.	Mettre en place la recherche dans la FAQ
+-	Chat en ligne pour assistance
+  1.	Intégrer un widget de chat en ligne (ex: Intercom, Zendesk)
+  2.	Configurer le backend pour gérer les sessions de chat
+  3.	Former le personnel de support à utiliser l'outil de chat
 ### Gestion des annonces
-Publication et gestion des annonces
-  •	Interface de publication d'annonces
-  o	Concevoir l'interface utilisateur pour la publication
-  o	Implémenter la validation des données d'annonce
-  o	Sauvegarder les annonces dans la base de données
-•	Gestion des annonces existantes
-  o	Créer une interface pour modifier/supprimer les annonces
-  o	Implémenter la logique de modification et suppression (backend)
-  o	Gérer les permissions (qui peut modifier/supprimer)
-Filtrage et recherche des annonces
-•	Système de recherche par mots-clés
-  o	Développer l'interface de recherche
-  o	Intégrer la logique de recherche (backend)
-•	Filtres par catégorie, date, etc.
-  o	Ajouter des filtres de recherche
-  o	Intégrer les filtres dans l'interface utilisateur
+#### Publication et gestion des annonces
+  -	Interface de publication d'annonces
+  1.	Concevoir l'interface utilisateur pour la publication
+  2.	Implémenter la validation des données d'annonce
+  3.	Sauvegarder les annonces dans la base de données
+-	Gestion des annonces existantes
+  1.	Créer une interface pour modifier/supprimer les annonces
+  2.	Implémenter la logique de modification et suppression (backend)
+  3.	Gérer les permissions (qui peut modifier/supprimer)
+#### Filtrage et recherche des annonces
+-	Système de recherche par mots-clés
+  1.	Développer l'interface de recherche
+  2.	Intégrer la logique de recherche (backend)
+-	Filtres par catégorie, date, etc.
+  1.	Ajouter des filtres de recherche
+  2.	Intégrer les filtres dans l'interface utilisateur
 ### Gestion des recommandations
 #### Algorithme de recommandation personnalisé
-•	Développement de l'algorithme
-  o	Analyser les données utilisateurs
-  o	Développer l'algorithme de recommandation
-  o	Tester l'algorithme avec des jeux de données
+-	Développement de l'algorithme
+  1.	Analyser les données utilisateurs
+  2.	Développer l'algorithme de recommandation
+  3.	Tester l'algorithme avec des jeux de données
 #### Suggestions basées sur les préférences et activités des utilisateurs
-•	Analyse des préférences et activités passées
-  o	Collecter et analyser les données utilisateurs
-  o	Intégrer les résultats dans l'algorithme de recommandation
-•	Génération des recommandations dynamiques
-  o	Implémenter la logique pour afficher des recommandations en temps réel
-  o	Tester l'affichage et la pertinence des recommandations
+-	Analyse des préférences et activités passées
+  1.	Collecter et analyser les données utilisateurs
+  2.	Intégrer les résultats dans l'algorithme de recommandation
+-	Génération des recommandations dynamiques
+  1.	Implémenter la logique pour afficher des recommandations en temps réel
+  2.	Tester l'affichage et la pertinence des recommandations
 #### Amélioration continue des recommandations
-•	Collecte des retours utilisateurs
-  o	Mettre en place un système de feedback
-  o	Analyser les retours pour améliorer l'algorithme
-•	Affinement de l'algorithme
-  o	Effectuer des mises à jour régulières de l'algorithme
-  o	Tester les améliorations avec des utilisateurs réels
+-	Collecte des retours utilisateurs
+  1.	Mettre en place un système de feedback
+  2.	Analyser les retours pour améliorer l'algorithme
+-	Affinement de l'algorithme
+  1.	Effectuer des mises à jour régulières de l'algorithme
+  2.	Tester les améliorations avec des utilisateurs réels
 ### Gestion des actualités
 #### Affichage des actualités sportives
-•	Développement de la section d'actualités
-  o	Concevoir l'interface utilisateur pour les actualités
-  o	Intégrer les flux RSS ou API pour les actualités sportives
-  o	Afficher les actualités dans l'application
+-	Développement de la section d'actualités
+  1.	Concevoir l'interface utilisateur pour les actualités
+  2.	Intégrer les flux RSS ou API pour les actualités sportives
+  3.	Afficher les actualités dans l'application
 #### Mise à jour régulière des informations
-•	Système de mise à jour automatique
-  o	Configurer les mises à jour automatiques des flux RSS ou API
-  o	Tester la mise à jour régulière des informations
-  o	Gérer les erreurs de mise à jour
+-	Système de mise à jour automatique
+  1.	Configurer les mises à jour automatiques des flux RSS ou API
+  2.	Tester la mise à jour régulière des informations
+  3.	Gérer les erreurs de mise à jour
 ### API externe
 #### Intégration avec des services externes
-•	Documentation et intégration des API
-  o	Identifier les services externes nécessaires
-  o	Intégrer les API externes dans l'application
-  o	Tester les intégrations avec des scénarios utilisateur
+-	Documentation et intégration des API
+  1.	Identifier les services externes nécessaires
+  2.	Intégrer les API externes dans l'application
+  3.	Tester les intégrations avec des scénarios utilisateur
 #### Utilisation de l'IA/ChatGPT pour l'assistance
-•	Intégration de ChatGPT
-  o	Configurer l'API de ChatGPT
-  o	Développer l'interface utilisateur pour interagir avec ChatGPT
-  o	Tester les réponses de ChatGPT avec des utilisateurs réels
+-	Intégration de ChatGPT
+  1.	Configurer l'API de ChatGPT
+  2.	Développer l'interface utilisateur pour interagir avec ChatGPT
+  3.	Tester les réponses de ChatGPT avec des utilisateurs réels
 #### Connexion avec des plateformes comme WhatsApp et Facebook
-•	Développement des connecteurs
-  o	Intégrer l'API de WhatsApp pour envoyer des notifications
-  o	Intégrer l'API de Facebook pour envoyer des notifications
-  o	Tester les envois de notifications sur les deux plateformes
+-	Développement des connecteurs
+  1.	Intégrer l'API de WhatsApp pour envoyer des notifications
+  2.	Intégrer l'API de Facebook pour envoyer des notifications
+  3.	Tester les envois de notifications sur les deux plateformes
