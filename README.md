@@ -56,9 +56,9 @@
     - Implémenter la logique de validation des données
     -	Intégrer la création de compte (backend)
 -	Développement de la page de connexion
-   -	Concevoir l'interface utilisateur
-   -	Intégrer le système d'authentification (backend)
-   -	Gérer les erreurs de connexion (ex: mot de passe incorrect)
+    -	Concevoir l'interface utilisateur
+    -	Intégrer le système d'authentification (backend)
+    -	Gérer les erreurs de connexion (ex: mot de passe incorrect)
 -	Authentification via réseaux sociaux
    1.	Intégrer l'API d'authentification de Facebook
    2.	Intégrer l'API d'authentification de Google
