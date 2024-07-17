@@ -15,50 +15,50 @@
 
 
 # Gestion des utilisateurs
-•	Inscription et connexion des utilisateurs
-•	 Inscription  Via email, réseaux sociaux 
-•	Gestion du profil utilisateur
+- Inscription et connexion des utilisateurs
+-	Inscription  Via email, réseaux sociaux 
+- Gestion du profil utilisateur
 
 #   Gestion des annonces
-•	Affichage des annonces
-•	Création d'annonces par les utilisateurs
-•	Interaction avec les annonces 
+-	Affichage des annonces
+-	Création d'annonces par les utilisateurs
+-	Interaction avec les annonces 
 #  Gestion des événements
-•	Organisation et gestion des événements
-•	Inscription et participation des utilisateurs
-•	Communication et mise à jour des événements
+-	Organisation et gestion des événements
+-	Inscription et participation des utilisateurs
+-	Communication et mise à jour des événements
 
 # Gestion des activités sportives 
-•	Choix des activités  par les utilisateurs 
-•	Création et gestion des activités
-•	Notification des utilisateurs pour les activités
+-	Choix des activités  par les utilisateurs 
+-	Création et gestion des activités
+-	Notification des utilisateurs pour les activités
 #  Recommandations
-•	Algorithme de recommandations basé sur les préférences des utilisateurs
-•	Suggestions d'activités ou d'annonces pertinentes
+-	Algorithme de recommandations basé sur les préférences des utilisateurs
+-	Suggestions d'activités ou d'annonces pertinentes
 #  Support
-•	Système de support pour aider les utilisateurs
-•	FAQ et documentation d'aide
+-	Système de support pour aider les utilisateurs
+-	FAQ et documentation d'aide
 #  Actualités
-•	Affichage des actualités sportives
-•	Mise à jour régulière des contenus d'actualité
+-	Affichage des actualités sportives
+-	Mise à jour régulière des contenus d'actualité
 #  API Externe
-•	Intégration avec des API externes
-•	Synchronisation de données avec des services tiers
-•	  Intégration avec des services externes
-•	 Utilisation de l'IA/ChatGPT pour l'assistance
-•	  Connexion avec des plateformes comme WhatsApp et Facebook pour notifications et interactions
+-	Intégration avec des API externes
+-	Synchronisation de données avec des services tiers
+-	Intégration avec des services externes
+-	Utilisation de l'IA/ChatGPT pour l'assistance
+-	Connexion avec des plateformes comme WhatsApp et Facebook pour notifications et interactions
 
 ## Liste des taches par fonctionnalité :
  ## Gestion des utilisateurs
  # Inscription et connexion
-•	Développement de la page d'inscription
-  o	Concevoir l'interface utilisateur
-  o	Implémenter la logique de validation des données
-  o	Intégrer la création de compte (backend)
-•	Développement de la page de connexion
-  o	Concevoir l'interface utilisateur
-  o	Intégrer le système d'authentification (backend)
-  o	Gérer les erreurs de connexion (ex: mot de passe incorrect)
+-	Développement de la page d'inscription
+  -	Concevoir l'interface utilisateur
+  -	Implémenter la logique de validation des données
+  -	Intégrer la création de compte (backend)
+-	Développement de la page de connexion
+ -	Concevoir l'interface utilisateur
+  -	Intégrer le système d'authentification (backend)
+  -	Gérer les erreurs de connexion (ex: mot de passe incorrect)
 •	Authentification via réseaux sociaux
   o	Intégrer l'API d'authentification de Facebook
   o	Intégrer l'API d'authentification de Google
