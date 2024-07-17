@@ -14,34 +14,34 @@
 ## Liste de fonctionnalité par module
 
 
-# Gestion des utilisateurs
+### Gestion des utilisateurs
 - Inscription et connexion des utilisateurs
 -	Inscription  Via email, réseaux sociaux 
 - Gestion du profil utilisateur
 
-#   Gestion des annonces
+###  Gestion des annonces
 -	Affichage des annonces
 -	Création d'annonces par les utilisateurs
 -	Interaction avec les annonces 
-#  Gestion des événements
+### Gestion des événements
 -	Organisation et gestion des événements
 -	Inscription et participation des utilisateurs
 -	Communication et mise à jour des événements
 
-# Gestion des activités sportives 
+### Gestion des activités sportives 
 -	Choix des activités  par les utilisateurs 
 -	Création et gestion des activités
 -	Notification des utilisateurs pour les activités
-#  Recommandations
+### Recommandations
 -	Algorithme de recommandations basé sur les préférences des utilisateurs
 -	Suggestions d'activités ou d'annonces pertinentes
-#  Support
+###  Support
 -	Système de support pour aider les utilisateurs
 -	FAQ et documentation d'aide
-#  Actualités
+###  Actualités
 -	Affichage des actualités sportives
 -	Mise à jour régulière des contenus d'actualité
-#  API Externe
+###  API Externe
 -	Intégration avec des API externes
 -	Synchronisation de données avec des services tiers
 -	Intégration avec des services externes
@@ -49,8 +49,8 @@
 -	Connexion avec des plateformes comme WhatsApp et Facebook pour notifications et interactions
 
 ## Liste des taches par fonctionnalité :
- ## Gestion des utilisateurs
- # Inscription et connexion
+ ### Gestion des utilisateurs
+ ### Inscription et connexion
 -	Développement de la page d'inscription
   * Concevoir l'interface utilisateur
   * Implémenter la logique de validation des données
@@ -63,7 +63,7 @@
   o	Intégrer l'API d'authentification de Facebook
   o	Intégrer l'API d'authentification de Google
   o	Tester l'intégration avec différents scénarios utilisateur
-## Gestion des profils utilisateurs
+### Gestion des profils utilisateurs
 •	Création de la page de profil utilisateur
   o	Concevoir l'interface utilisateur
   o	Afficher les informations de base de l'utilisateur
@@ -84,12 +84,12 @@ Suivi et interaction entre utilisateurs
   o	Configurer les types de notifications (nouveau message, nouveau suiveur)
   o	Tester les notifications sur différents appareils
 ## Gestion des activités sportives
-# Choix et gestion des activités
+### Choix et gestion des activités
 •	Interface de choix d'activités
 o	Concevoir l'interface utilisateur pour faire le choix d’activité 
 o	Sauvegarder les activités dans la base de données
-## Gestion des événements
-# Organisation et gestion des événements
+### Gestion des événements
+ ## Organisation et gestion des événements
 •	Interface d'organisation d'événements
   o	Concevoir l'interface utilisateur pour la création d'événements
   o	Implémenter la validation des données d'événement
