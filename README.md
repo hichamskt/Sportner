@@ -53,12 +53,12 @@
  #### Inscription et connexion
 -	Développement de la page d'inscription
     - Concevoir l'interface utilisateur
-   2. Implémenter la logique de validation des données
-   3.	Intégrer la création de compte (backend)
+    - Implémenter la logique de validation des données
+    -	Intégrer la création de compte (backend)
 -	Développement de la page de connexion
-   1.	Concevoir l'interface utilisateur
-   2.	Intégrer le système d'authentification (backend)
-   3.	Gérer les erreurs de connexion (ex: mot de passe incorrect)
+   -	Concevoir l'interface utilisateur
+   -	Intégrer le système d'authentification (backend)
+   -	Gérer les erreurs de connexion (ex: mot de passe incorrect)
 -	Authentification via réseaux sociaux
    1.	Intégrer l'API d'authentification de Facebook
    2.	Intégrer l'API d'authentification de Google
