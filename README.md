@@ -52,14 +52,14 @@
  ## Gestion des utilisateurs
  # Inscription et connexion
 -	Développement de la page d'inscription
-  -	Concevoir l'interface utilisateur
-  -	Implémenter la logique de validation des données
-  -	Intégrer la création de compte (backend)
+  * Concevoir l'interface utilisateur
+  * Implémenter la logique de validation des données
+  *	Intégrer la création de compte (backend)
 -	Développement de la page de connexion
- -	Concevoir l'interface utilisateur
-  -	Intégrer le système d'authentification (backend)
-  -	Gérer les erreurs de connexion (ex: mot de passe incorrect)
-•	Authentification via réseaux sociaux
+  *	Concevoir l'interface utilisateur
+  *	Intégrer le système d'authentification (backend)
+  *	Gérer les erreurs de connexion (ex: mot de passe incorrect)
+-	Authentification via réseaux sociaux
   o	Intégrer l'API d'authentification de Facebook
   o	Intégrer l'API d'authentification de Google
   o	Tester l'intégration avec différents scénarios utilisateur
